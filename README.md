@@ -1,8 +1,10 @@
 # European Romance Communication _(EuroRomCom)_
 
+ 🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 
+
 This is a collection of json word lists which exist in all or several romance languages. This project also includes sample activities which use said data.
 
-## 🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 Table of Contents 🇫🇷 🇪🇸 🇮🇹 🇵🇹 🇷🇴 🇪🇺 
+## Table of Contents
 
 - [Background](#background)
 - [Word lists](#word-lists)
