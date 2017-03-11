@@ -28,6 +28,16 @@ This is a collection of json word lists which exist in all or several romance la
 * List of Romance Profile Words - page 133-139 of _EuroRomCom: The Seven Sieves_.
 * Supplementary list of Pan-Romance vocabulary (present in at least 5 languages) - page 218-223 of _EuroRomCom: The Seven Sieves_.
 
+## External Resources
+
+* [EuroRomCom site (German)](http://www.eurocomrom.de/)
+* [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
+
+## Related Concepts
+
+* [Dialect continuum](https://en.wikipedia.org/wiki/Dialect_continuum) - Idea that languages developed across a spectrum rather than as distinct units.
+* [Mutual intelligibility](https://en.wikipedia.org/wiki/Mutual_intelligibility) - Ability for speakers of one language to understand another language using their first.
+
 ## Contribute
 
 Feel free to dive in! [Open an issue](https://github.com/kirkins/euroromcom/issues/new) or submit PRs.
