@@ -2,7 +2,7 @@
 
 🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 
 
-This project is based on the work of William J. McCann, Horst G. Klein, & Tilbert D. Stegmann in their book [_EuroRomCom - The Seven Sieves: How to read all the Romance languages right away_](https://www.amazon.com/EuroComRom-Romance-Languages-Editiones-EuroCom/dp/3832204377).
+This project is based on the work of William J. McCann, Horst G. Klein, & Tilbert D. Stegmann in their book [_EuroRomCom - The Seven Sieves: How to read all the Romance languages right away_](http://xombi.inter.hu/zn/The_Seven_Sieves_.pdf).
 
 It contains a collection of word lists which exist in all or several romance languages. 
 
