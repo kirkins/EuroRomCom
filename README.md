@@ -39,6 +39,7 @@ This project also includes sample activities which use said word lists.
 ## Activities
 
 * [Simple Quiz](https://kirkins.github.io/euroromcom/activities/simpleQuiz/)
+* TODO add more activities
 
 ## External Resources
 
