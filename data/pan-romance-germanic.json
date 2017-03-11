@@ -1,0 +1,22 @@
+[
+  {"root":"bank", "french":"banc", "italian":"banco", "catalan":"banc", "portuguese":"banco", "romanian":"(banca)", "spanish":"banco", "english":"bench"},
+  {"root":"blank", "french":"blanc", "italian":"bianco", "catalan":"blanc", "portuguese":"branco", "romanian":"--", "spanish":"blanco", "english":"blank"},
+  {"root":"blao", "french":"bleu", "italian":"blu", "catalan":"blau", "portuguese":"--", "romanian":"(bleu)", "spanish":"--", "english":"blue"},
+  {"root":"blund", "french":"blond", "italian":"biondo", "catalan":"--", "portuguese":"--", "romanian":"(blond)", "spanish":"(blondo)", "english":"blond"},
+  {"root":"bosk", "french":"bois", "italian":"bosco", "catalan":"bosc", "portuguese":"bosque", "romanian":"(boschet)", "spanish":"bosque", "english":"bush, bosky"},
+  {"root":"brun", "french":"brun", "italian":"bruno", "catalan":"bru", "portuguese":"(bruno)", "romanian":"brun", "spanish":"--", "english":"brown"},
+  {"root":"falda", "french":"-", "italian":"falda", "catalan":"falda", "portuguese":"falda", "romanian":"--", "spanish":"falda", "english":"fold"},
+  {"root":"frank", "french":"franc", "italian":"franco", "catalan":"franc", "portuguese":"franco", "romanian":"(franc)", "spanish":"franco", "english":"frank"},
+  {"root":"frisk", "french":"frais", "italian":"fresco", "catalan":"fresc", "portuguese":"fresco", "romanian":"(fresca)", "spanish":"fresco", "english":"fresh"},
+  {"root":"gardo", "french":"jardin", "italian":"giardino", "catalan":"jardi", "portuguese":"jardim", "romanian":"(*gardina)", "spanish":"jardin", "english":"garden"},
+  {"root":"grisi", "french":"gris", "italian":"grigio", "catalan":"gris", "portuguese":"(griseu)", "romanian":"(gri)", "spanish":"gris", "english":"gray"},
+  {"root":"helm", "french":"heaume", "italian":"elmo", "catalan":"elm", "portuguese":"elmo", "romanian":"-", "spanish":"yelmo", "english":"helm(et)"},
+  {"root":"marka", "french":"marque", "italian":"marca", "catalan":"marc", "portuguese":"marca", "romanian":"(marca)", "spanish":"marca", "english":"mark"},
+  {"root":"raubon", "french":"derober", "italian":"rubare", "catalan":"robar", "portuguese":"roubar", "romanian":"--", "spanish":"robar", "english":"rob"},
+  {"root":"riks", "french":"riche", "italian":"ricco", "catalan":"ric", "portuguese":"rico", "romanian":"--", "spanish":"rico", "english":"rich"},
+  {"root":"roba", "french":"robe", "italian":"roba", "catalan":"roba", "portuguese":"roupa", "romanian":"(roba)", "spanish":"ropa", "english":"robe"},
+  {"root":"waidanjan", "french":"gagner", "italian":"guadagnare", "catalan":"guanyar", "portuguese":"ganhar", "romanian":"--", "spanish":"ganar", "english":"win"},
+  {"root":"wardon", "french":"garder", "italian":"guardare", "catalan":"guardar", "portuguese":"guardar", "romanian":"(garda)", "spanish":"guardar", "english":"guard"},
+  {"root":"warnjan", "french":"garnir", "italian":"guarnire", "catalan":"guarnir", "portuguese":"guarnecer", "romanian":"(a garnisi)", "spanish":"guarnecer", "english":"garnish"},
+  {"root":"werra", "french":"guerre", "italian":"guerra", "catalan":"guerra", "portuguese":"guerra", "romanian":"--", "spanish":"guerra", "english":"war"}
+]
