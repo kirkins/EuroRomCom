@@ -7,7 +7,7 @@ This is a collection of json word lists which exist in all or several romance la
 
 - [Background](#background)
 - [Word lists](#word-lists)
-- [Word lists](#word-lists)
+- [Activities](#activities)
 - [External Resources](#external-resources)
 - [Related Concepts](#related-concepts)
 - [Contribute](#contribute)
