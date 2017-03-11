@@ -1,8 +1,12 @@
 # European Romance Communication _(EuroRomCom)_
 
- 🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 
+🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 
 
-This is a collection of json word lists which exist in all or several romance languages. This project also includes sample activities which use said data.
+This project is based on the work of William J. McCann, Horst G. Klein, & Tilbert D. Stegmann in their book EuroRomCom - [_The Seven Sieves: How to read all the Romance languages right away_](https://www.amazon.com/EuroComRom-Romance-Languages-Editiones-EuroCom/dp/3832204377).
+
+It contains a collection of word lists which exist in all or several romance languages. 
+
+This project also includes sample activities which use said word lists.
 
 ## Table of Contents
 
