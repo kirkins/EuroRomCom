@@ -1,9 +1,32 @@
-var wordList;
+var wordList,params,selectedList;
 
-$.getJSON( "../../data/completely-pan-romance.json", function(json) {
-  wordList = json;
-  buildHtmlTable('#excelDataTable');
-});
+function loadList() {
+  $("#excelDataTable").html("");
+  $.getJSON( "../../data/"+document.getElementById("selectedList").value+".json", function(json) {
+    wordList = json;
+    buildHtmlTable('#excelDataTable');
+  });
+}
+
+// Function to get url params
+var parseQueryString = function() {
+  var str = window.location.search
+  var objURL = {}
+  str.replace(
+    new RegExp( "([^?=&]+)(=([^&]*))?", "g" ),
+    function( $0, $1, $2, $3 ){
+      objURL[ $1 ] = $3;
+    });
+  return objURL;
+}
+params = parseQueryString();
+
+// If user has set list in url we will select it for them
+if(params["list"]) selectedList = params["list"];
+if(selectedList) {
+  document.getElementById("selectedList").value = selectedList;
+  loadList();
+}
 
 // Builds the HTML Table out of wordList.
 function buildHtmlTable(selector) {
@@ -40,3 +63,5 @@ function addAllColumnHeaders(wordList, selector) {
 
   return columnSet;
 }
+
+document.getElementById('selectedList').addEventListener('change', loadList, false);
