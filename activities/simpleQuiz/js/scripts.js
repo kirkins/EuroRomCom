@@ -1,7 +1,7 @@
 var wordList;
 var currentAnswer;
 
-$.getJSON( "../../data/panrom.json", function(json) {
+$.getJSON( "../../data/completely-pan-romance.json", function(json) {
   wordList = json;
 });
 
