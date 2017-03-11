@@ -1,4 +1,4 @@
-{
+[
   {"latin":"aqua","french":"eau","italian":"acqua","catalan":"aigua","portuguese":"aqua","romanian":"apa","spanish":"aqua","english":"water"},
   {"latin":"arcus","french":"arc","italian":"arco","catalan":"arc","portuguese":"arco","romanian":"arc","spanish":"arco","english":"bow, arch"},
   {"latin":"auricla","french":"oreille","italian":"orecchio","catalan":"orella","portuguese":"orelha","romanian":"ureche","spanish":"oreja","english":"ear"},
@@ -38,4 +38,4 @@
   {"latin":"venire","french":"venir","italian":"venire","catalan":"venir","portuguese":"vir","romanian":"a veni","spanish":"venir","english":"come"},
   {"latin":"ventus","french":"vent","italian":"vento","catalan":"vent","portuguese":"vento","romanian":"vant","spanish":"viento","english":"wind"},
   {"latin":"vinum","french":"vin","italian":"vino","catalan":"vi","portuguese":"vinho","romanian":"vin","spanish":"vino","english":"wine"}
-}
+]
