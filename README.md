@@ -28,7 +28,7 @@ This project also includes [sample activities](#activities) which use said word 
 
 * List of completely Pan-Romance words - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=completely-pan-romance) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/completely-pan-romance.json) - page 32 of _EuroRomCom: The Seven Sieves_.
 * The nucleus of the Pan-Romance Vocabulary - page 33-36 of _EuroRomCom: The Seven Sieves_.
-* List of the Pan-Romance words that have been preserved in eight languages - page 37-38 of _EuroRomCom: The Seven Sieves_.
+* List of the Pan-Romance words that have been preserved in eight languages - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-in-eight) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/pan-romance-in-eight.json) - page 37-38 of _EuroRomCom: The Seven Sieves_.
 * Pan-Romance elements borrowed from learned Latin - page 48-49 of _EuroRomCom: The Seven Sieves_.
 * Pan-Romance words from the Germanic languages - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-germanic) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/pan-romance-germanic.json) - page 50-51 of _EuroRomCom: The Seven Sieves_.
 * Latin-derived prefixes in the Romance languages - page 128-129 of _EuroRomCom: The Seven Sieves_.
