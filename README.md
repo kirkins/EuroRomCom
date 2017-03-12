@@ -70,6 +70,7 @@ This project also includes [sample activities](#activities) which use said word 
 * [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
 * [Wikipedia Romance Languages](https://en.wikipedia.org/wiki/Romance_languages)
 * [Introducing Micrela: Predicting Mutual Intelligibility Between Closely Related Languages in Europe](http://www.let.rug.nl/gooskens/pdf/publ_almadi_2015.pdf)
+* [Language Evolution Simulation (multimedia)](https://fatiherikli.github.io/language-evolution-simulation/)
 * [Cognate Vocabulary in Language Acquisition and Use: Attitudes, Awareness](https://books.google.ca/books?id=5teOCgAAQBAJ)
 
 ## Known typos
