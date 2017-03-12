@@ -4,15 +4,14 @@
 
 This project is based on the work of William J. McCann, Horst G. Klein, & Tilbert D. Stegmann in their book [_EuroRomCom - The Seven Sieves: How to read all the Romance languages right away_](http://xombi.inter.hu/zn/The_Seven_Sieves_.pdf).
 
-It contains a collection of word lists which exist in all or several romance languages. 
-
-This project also includes [sample activities](#activities) which use said word lists.
+These resources are intended for the use of pre-existing knowledge in one Romance language to passively understand written content from another. It contains a collection of [word lists](#word-lists) which exist in all or several Romance languages, [interactive learning activities](#activities), and links to [external resources](#external-resources).
 
 ## Table of Contents
 
 - [Background](#background)
 - [Word lists](#word-lists)
 - [Activities](#activities)
+- [Seven Sieves](#seven-sieves)
 - [Related Concepts](#related-concepts)
 - [List of Romance languages](#list-of-romance-languages)
 - [External Resources](#external-resources)
@@ -28,7 +27,7 @@ This project also includes [sample activities](#activities) which use said word 
 
 * List of completely Pan-Romance words - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=completely-pan-romance) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/completely-pan-romance.json) - page 32 of _EuroRomCom: The Seven Sieves_.
 * The nucleus of the Pan-Romance Vocabulary - page 33-36 of _EuroRomCom: The Seven Sieves_.
-* List of the Pan-Romance words that have been preserved in eight languages - page 37-38 of _EuroRomCom: The Seven Sieves_.
+* List of the Pan-Romance words that have been preserved in eight languages - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-in-eight) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/pan-romance-in-eight.json) - page 37-38 of _EuroRomCom: The Seven Sieves_.
 * Pan-Romance elements borrowed from learned Latin - page 48-49 of _EuroRomCom: The Seven Sieves_.
 * Pan-Romance words from the Germanic languages - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-germanic) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/pan-romance-germanic.json) - page 50-51 of _EuroRomCom: The Seven Sieves_.
 * Latin-derived prefixes in the Romance languages - page 128-129 of _EuroRomCom: The Seven Sieves_.
@@ -44,6 +43,16 @@ This project also includes [sample activities](#activities) which use said word 
 * [Simple Quiz](https://kirkins.github.io/EuroRomCom/activities/simpleQuiz/)
 * TODO add more activities
 
+## Seven Sieves
+
+* International Vocabulary - TODO
+* Pan-Romance Vocabulary - TODO
+* Sound Correspondences - TODO
+* Spelling and Pronunciation - TODO
+* Pan-Romance Syntactic Structures - TODO
+* Morphosyntactic Elements - TODO
+* Prefixes and suffixes: "Eurofixes" - TODO
+
 ## Related Concepts
 
 * [Dialect continuum](https://en.wikipedia.org/wiki/Dialect_continuum) - Idea that languages developed across a spectrum rather than as distinct units.
@@ -58,6 +67,10 @@ This project also includes [sample activities](#activities) which use said word 
 * [EuroRomCom site (German)](http://www.eurocomrom.de/)
 * [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
 * [Wikipedia Romance Languages](https://en.wikipedia.org/wiki/Romance_languages)
+* [Introducing Micrela: Predicting Mutual Intelligibility Between Closely Related Languages in Europe](http://www.let.rug.nl/gooskens/pdf/publ_almadi_2015.pdf)
+* [Language Evolution Simulation (multimedia)](https://fatiherikli.github.io/language-evolution-simulation/)
+* [Cognate Vocabulary in Language Acquisition and Use: Attitudes, Awareness](https://books.google.ca/books?id=5teOCgAAQBAJ)
+* [Vistas of English for Specific Purposes, Chapter 7](https://books.google.ca/books?id=aZvWCgAAQBAJ&pg=PA71)
 
 ## Known typos
 
