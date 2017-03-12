@@ -16,6 +16,7 @@ This project also includes [sample activities](#activities) which use said word 
 - [Related Concepts](#related-concepts)
 - [List of Romance languages](#list-of-romance-languages)
 - [External Resources](#external-resources)
+- [Known Typos](#known-typos)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -57,6 +58,11 @@ This project also includes [sample activities](#activities) which use said word 
 * [EuroRomCom site (German)](http://www.eurocomrom.de/)
 * [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
 * [Wikipedia Romance Languages](https://en.wikipedia.org/wiki/Romance_languages)
+
+## Known typos
+
+_Add typos you find in the original book here_
+* Page 38, english column for foot incorrectly says food.
 
 ## Contribute
 
