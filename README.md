@@ -6,15 +6,17 @@ This project is based on the work of William J. McCann, Horst G. Klein, & Tilber
 
 It contains a collection of word lists which exist in all or several romance languages. 
 
-This project also includes sample activities which use said word lists.
+This project also includes [sample activities](#activities) which use said word lists.
 
 ## Table of Contents
 
 - [Background](#background)
 - [Word lists](#word-lists)
 - [Activities](#activities)
-- [External Resources](#external-resources)
 - [Related Concepts](#related-concepts)
+- [List of Romance languages](#list-of-romance-languages)
+- [External Resources](#external-resources)
+- [Known Typos](#known-typos)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -42,15 +44,25 @@ This project also includes sample activities which use said word lists.
 * [Simple Quiz](https://kirkins.github.io/EuroRomCom/activities/simpleQuiz/)
 * TODO add more activities
 
-## External Resources
-
-* [EuroRomCom site (German)](http://www.eurocomrom.de/)
-* [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
-
 ## Related Concepts
 
 * [Dialect continuum](https://en.wikipedia.org/wiki/Dialect_continuum) - Idea that languages developed across a spectrum rather than as distinct units.
 * [Mutual intelligibility](https://en.wikipedia.org/wiki/Mutual_intelligibility) - Ability for speakers of one language to understand another language using their first.
+
+## List of Romance languages
+
+* Latin, Vulgar Latin, Apulian, Aragonese, Aromanian, Asturian, Bolognese, Catalan, Corsican, Emilian, Extremaduran, Franco-Provençal, French, Friulian, Galician, Gallurese, Italian, Judaeo-Spanish, Ladin, Leonese, Ligurian, Lombard (east.)(Bergamasque), Lombard (west.), Magoua, Milanese, Mirandese, Mozarabic, Neapolitan, Norman, Occitan, Picard, Piedmontese, Portuguese, Rhonian, Romagnol, Romanian, Romansh, Sardinian, Sassarese, Sicilian, Spanish, Tuscan, Umbrian, Venetian, Walloon
+
+## External Resources
+
+* [EuroRomCom site (German)](http://www.eurocomrom.de/)
+* [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
+* [Wikipedia Romance Languages](https://en.wikipedia.org/wiki/Romance_languages)
+
+## Known typos
+
+_Add typos you find in the original book here_
+* Page 38, english column for foot incorrectly says food.
 
 ## Contribute
 
