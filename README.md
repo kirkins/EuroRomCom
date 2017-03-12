@@ -13,6 +13,7 @@ This project also includes [sample activities](#activities) which use said word 
 - [Background](#background)
 - [Word lists](#word-lists)
 - [Activities](#activities)
+- [Seven Sieves](#seven-sieves)
 - [Related Concepts](#related-concepts)
 - [List of Romance languages](#list-of-romance-languages)
 - [External Resources](#external-resources)
@@ -43,6 +44,16 @@ This project also includes [sample activities](#activities) which use said word 
 * [Word lists](https://kirkins.github.io/EuroRomCom/activities/displayTable/)
 * [Simple Quiz](https://kirkins.github.io/EuroRomCom/activities/simpleQuiz/)
 * TODO add more activities
+
+## Seven Sieves
+
+* International Vocabulary - TODO
+* Pan-Romance Vocabulary - TODO
+* Sound Correspondences - TODO
+* Spelling and Pronunciation - TODO
+* Pan-Romance Syntactic Structures - TODO
+* Morphosyntactic Elements - TODO
+* Prefixes and suffixes: "Eurofixes" - TODO
 
 ## Related Concepts
 
