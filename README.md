@@ -69,6 +69,7 @@ This project also includes [sample activities](#activities) which use said word 
 * [EuroRomCom site (German)](http://www.eurocomrom.de/)
 * [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
 * [Wikipedia Romance Languages](https://en.wikipedia.org/wiki/Romance_languages)
+* [Introducing Micrela: Predicting Mutual Intelligibility Between Closely Related languages in Europe](http://www.let.rug.nl/gooskens/pdf/publ_almadi_2015.pdf)
 
 ## Known typos
 
