@@ -3,27 +3,28 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-
   <title>EuroRomCom</title>
   <meta name="description" content="EuroRomCom">
   <meta name="author" content="Philip Richard Kirkbride">
-
-  <!--<link rel="stylesheet" href="css/styles.css?v=1.0">-->
-
-  <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-  <![endif]-->
+  <script type="text/javascript" src="https://cdn.rawgit.com/showdownjs/showdown/1.6.3/dist/showdown.min.js"></script>
 </head>
-
-<body>
-  <h1>EuroRomCom</h1>
-  <img src="imgs/eu.png">
-  <h3>Learning activities</h3>
-  <ul>
-    <li><a href="activities/displayTable/">View Lists</a></li>
-    <li><a href="activities/simpleQuiz/">Simple Quiz</a></li>
-  </ul>
- 
-  <a href="https://github.com/kirkins/EuroRomCom/blob/master/README.md">Read more</a>
+<body id="body">
+  <script type="text/javascript">
+    function readTextFile(file) {
+      var rawFile = new XMLHttpRequest();
+      rawFile.open("GET", file, false);
+      rawFile.onreadystatechange = function () {
+        if(rawFile.readyState === 4) {
+          if(rawFile.status === 200 || rawFile.status == 0)
+          {
+            var converter = new showdown.Converter();
+            document.getElementById('body').innerHTML = converter.makeHtml(rawFile.responseText);
+          }
+        }
+      }
+      rawFile.send(null);
+    }
+    readTextFile('README.md');
+  </script>
 </body>
 </html>
