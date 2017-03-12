@@ -6,7 +6,7 @@ This project is based on the work of William J. McCann, Horst G. Klein, & Tilber
 
 It contains a collection of word lists which exist in all or several romance languages. 
 
-This project also includes sample activities which use said word lists.
+This project also includes [sample activities](#activities) which use said word lists.
 
 ## Table of Contents
 
