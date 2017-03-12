@@ -1,4 +1,4 @@
-# European Romance Communication _(EuroRomCom)_
+# European Romance Language Communication
 
 🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 
 
