@@ -1,6 +1,5 @@
-var wordList;
-var currentAnswer;
-var languages;
+var wordList, currentAnswer, languages, streak;
+streak = 0;
 
 function loadList() {
   clearQuestion();
@@ -85,9 +84,12 @@ $("#startGame").click(function() { nextQuestion() });
 $(".answer").click(function() {
   if($(this).html()==currentAnswer){
     $('#result').html('Right!');
+    streak++;
   } else {
     $('#result').html('Wrong');
+    streak = 0;
   }
+  $('#streak').html(streak);
   nextQuestion();
 });
 
