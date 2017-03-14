@@ -86,7 +86,7 @@ $(".answer").click(function() {
     $('#result').html('Right!');
     streak++;
   } else {
-    $('#result').html('Wrong');
+    $('#result').html('Wrong, right answer was: ' + currentAnswer);
     streak = 0;
   }
   $('#streak').html(streak);
