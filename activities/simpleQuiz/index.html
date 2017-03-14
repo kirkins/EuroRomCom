@@ -3,50 +3,32 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-
   <title>EuroRomCom</title>
   <meta name="description" content="EuroRomCom Quiz">
   <meta name="author" content="Philip Richard Kirkbride">
-
   <link rel="stylesheet" href="css/styles.css">
-
-  <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-  <![endif]-->
 </head>
-
 <body>
-  <select id="lang1">
-    <option value="latin">Latin</option>
-    <option value="french">Francais</option>
-    <option value="italian">Italian</option>
-    <option value="catalan">Catalan</option>
-    <option value="portuguese">Portuguese</option>
-    <option value="romanian">Romanian</option>
-    <option value="spanish">Spanish</option>
-    <option value="english">English</option>
+  <select id="selectedList">
+    <option disabled selected value> -- Lists -- </option>
+    <option value="completely-pan-romance">Completely Pan Romance</option>
+    <option value="pan-romance-germanic">Pan Romance of Germanic Origin</option>
+    <option value="pan-romance-in-eight">Pan Romance in Eight Languages</option>
   </select>
+  <br>
 
-  <select id="lang2">
-    <option value="english">English</option>
-    <option value="spanish">Spanish</option>
-    <option value="romanian">Romanian</option>
-    <option value="portuguese">Portuguese</option>
-    <option value="catalan">Catalan</option>
-    <option value="italian">Italian</option>
-    <option value="french">Francais</option>
-    <option value="latin">Latin</option>
-  </select>
+  <select id="lang1"></select>
+  <select id="lang2"></select>
 
   <button id="startGame">Start</button>
-  
+
   <br><span id="question"></span><br>
 
   <button id="a1" class="answer"></button>
   <button id="a2" class="answer"></button>
   <button id="a3" class="answer"></button>
   <button id="a4" class="answer"></button>
-  
+
   <br><span id="result"></span>
 
   <script src="https://code.jquery.com/jquery-2.2.4.min.js"
