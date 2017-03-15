@@ -40,7 +40,7 @@ These resources are intended for the use of pre-existing knowledge in one Romanc
 ## Activities
 
 * [Word lists](https://kirkins.github.io/EuroRomCom/activities/displayTable/)
-* [Simple Quiz](https://kirkins.github.io/EuroRomCom/activities/simpleQuiz/)
+* [Simple Quiz](https://kirkins.github.io/EuroRomCom/activities/quiz/)
 * TODO add more activities
 
 ## Seven Sieves
