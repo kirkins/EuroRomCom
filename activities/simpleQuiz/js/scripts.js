@@ -2,6 +2,7 @@ var wordList, currentAnswer, languages, streak;
 streak = 0;
 
 function loadList() {
+  $('#lang1').show(); $('#lang2').show(); $('#startGame').show();
   clearQuestion();
   $.getJSON("../../data/"+document.getElementById("selectedList").value+".json", function(json) {
     wordList = json;
@@ -79,7 +80,7 @@ function addOptions() {
 }
 
 // Event listners
-$("#startGame").click(function() { nextQuestion() });
+$("#startGame").click(function() { nextQuestion(); $('.answer').show(); $('#info').show(); });
 
 $(".answer").click(function() {
   if($(this).html()==currentAnswer){
