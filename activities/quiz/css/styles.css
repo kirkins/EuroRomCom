@@ -4,7 +4,18 @@
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
-#lang1, #lang2, .answer, #startGame, #info {
+#lang1, #lang2, .answer, #startGame, #info, #toastMsg {
   display: none;
   margin: 2px;
 }
+#toastMsg {
+ width:500px;
+ left:50%;
+ bottom: 20%;
+ margin-left:-250px;
+ position:absolute;
+}
+
+/*.badge[data-badge]::after {
+  background: red;
+}*/
