@@ -79,6 +79,13 @@ function addOptions() {
   }
 }
 
+function streaker() {
+  $('#info').attr("data-badge", streak);
+  if(streak%5==0 && streak!=0) { $('#toastMsg').show('slow', function(){
+    window.setTimeout(function (){$('#toastMsg').hide('slow'); }, 3000);
+  }); }
+}
+
 // Event listners
 $("#startGame").click(function() { nextQuestion(); $('.answer').show(); $('#info').show(); });
 
@@ -90,7 +97,7 @@ $(".answer").click(function() {
     $('#result').html('Wrong, right answer was: ' + currentAnswer);
     streak = 0;
   }
-  $('#streak').html(streak);
+  streaker();
   nextQuestion();
 });
 
