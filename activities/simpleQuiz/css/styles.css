@@ -1,0 +1,9 @@
+#content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#lang1, #lang2, .answer, #startGame, #info {
+  display: none;
+}
