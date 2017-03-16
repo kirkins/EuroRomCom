@@ -9,10 +9,10 @@
   margin: 2px;
 }
 #toastMsg {
- width:500px;
+ width:40%;
  left:50%;
- bottom: 20%;
- margin-left:-250px;
+ bottom:20%;
+ margin-left:-20%;
  position:absolute;
 }
 

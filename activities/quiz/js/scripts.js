@@ -4,7 +4,7 @@ streak = 0;
 function loadList() {
   $('#lang1').show(); $('#lang2').show(); $('#startGame').show();
   clearQuestion();
-  $.getJSON("../../data/"+document.getElementById("selectedList").value+".json", function(json) {
+  $.getJSON("../../data/word-lists/"+document.getElementById("selectedList").value+".json", function(json) {
     wordList = json;
     languages = getKeys(wordList[0]);
     addOptions();
