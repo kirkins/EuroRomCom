@@ -2,7 +2,7 @@ var wordList,params,selectedList;
 
 function loadList() {
   $("#excelDataTable").html("");
-  $.getJSON("../../data/"+document.getElementById("selectedList").value+".json", function(json) {
+  $.getJSON("../../data/word-lists/"+document.getElementById("selectedList").value+".json", function(json) {
     wordList = json;
     buildHtmlTable('#excelDataTable');
   });
