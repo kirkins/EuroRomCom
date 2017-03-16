@@ -81,8 +81,6 @@ _Add typos you find in the original book here_
 
 Feel free to dive in! [Open an issue](https://github.com/kirkins/euroromcom/issues/new) or submit PRs.
 
-Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
-
 ## License
 
-MIT (c) Protocol Labs
+MIT
