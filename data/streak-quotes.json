@@ -1,16 +1,8 @@
 [
-  {"quote":"aequam memento rebus in arduis servare mentem", "author":"Horace", "language":"latin"},
-  {"quote":"Vires acquirit eundo", "author":"Virgil", "language":"latin"},
-  {"quote":"Vitanda est improba siren desidia", "author":"Horace", "language":"latin"},
-  {"quote":"Fabas indulcet fames", "author":"", "language":"latin"},
-  {"quote":"Acquirit qui tuetur", "author":"", "language":"latin"},
-  {"quote":"Carpe diem", "author":"Horace", "language":"latin"},
   {"quote":"Bon travail", "author":"", "language":"french"},
   {"quote":"Buen trabajo", "author":"", "language":"spanish"},
   {"quote":"Buon lavoro", "author":"", "language":"italian"},
   {"quote":"Bună treabă", "author":"", "language":"romanian"},
   {"quote":"Bona feina", "author":"", "language":"catlan"},
-  {"quote":"Good job", "author":"", "language":"english"},
-  {"quote":"You're on fire", "author":"", "language":"english"},
-  {"quote":"Vostè es crema", "author":"", "language":"catlan"}
+  {"quote":"Good job", "author":"", "language":"english"}
 ]
