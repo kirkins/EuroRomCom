@@ -1,4 +1,4 @@
-var wordList, currentAnswer, languages, streak;
+var wordList, currentAnswer, languages, streak, quotes;
 streak = 0;
 
 function loadList() {
@@ -8,7 +8,12 @@ function loadList() {
     wordList = json;
     languages = getKeys(wordList[0]);
     addOptions();
+    getQuotes();
   });
+}
+
+function getQuotes() {
+  $.getJSON("../../data/streak-quotes.json", function(json) { quotes = json; });
 }
 
 function getWordSet(lang1, lang2) {
@@ -81,8 +86,13 @@ function addOptions() {
 
 function streaker() {
   $('#info').attr("data-badge", streak);
-  if(streak%5==0 && streak!=0) { $('#toastMsg').show('slow', function(){
-    window.setTimeout(function (){$('#toastMsg').hide('slow'); }, 3000);
+  if(streak%5==0 && streak!=0) {
+    var random = Math.floor(Math.random() * quotes.length);
+    $('#toastMsg').html(quotes[random].quote);
+    $('#toastMsg').show('slow', function(){
+      window.setTimeout(function (){
+        $('#toastMsg').hide('slow'); 
+      }, 3000);
   }); }
 }
 

@@ -9,11 +9,12 @@
   margin: 2px;
 }
 #toastMsg {
- width:40%;
- left:50%;
- bottom:20%;
- margin-left:-20%;
- position:absolute;
+  width:40%;
+  left:50%;
+  bottom:20%;
+  margin-left:-20%;
+  position:absolute;
+  text-align:center;
 }
 
 /*.badge[data-badge]::after {
