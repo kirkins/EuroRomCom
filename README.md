@@ -28,9 +28,9 @@ These resources are intended for the use of pre-existing knowledge in one Romanc
 * List of completely Pan-Romance words - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=completely-pan-romance) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/word-lists/completely-pan-romance.json) - page 32 of _EuroRomCom: The Seven Sieves_.
 * The nucleus of the Pan-Romance Vocabulary - page 33-36 of _EuroRomCom: The Seven Sieves_.
 * List of the Pan-Romance words that have been preserved in eight languages - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-in-eight) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/word-lists/pan-romance-in-eight.json) - page 37-38 of _EuroRomCom: The Seven Sieves_.
-* Pan-Romance elements borrowed from learned Latin - page 48-49 of _EuroRomCom: The Seven Sieves_.
+* Pan-Romance elements borrowed from learned Latin - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-elements-from-latin) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/word-lists/pan-romance-elements-from-latin.json) - page 48-49 of _EuroRomCom: The Seven Sieves_.
 * Pan-Romance words from the Germanic languages - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-germanic) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/word-lists/pan-romance-germanic.json) - page 50-51 of _EuroRomCom: The Seven Sieves_.
-* Latin-derived prefixes in the Romance languages - [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=pan-romance-elements-from-latin) | [json](https://github.com/kirkins/EuroRomCom/blob/master/data/word-lists/pan-romance-elements-from-latin.json) - page 128-129 of _EuroRomCom: The Seven Sieves_.
+* Latin-derived prefixes in the Romance languages - page 128-129 of _EuroRomCom: The Seven Sieves_.
 * Greek-derived Prefixes in the Romance languages - page 129-130 of _EuroRomCom: The Seven Sieves_.
 * Nominal suffixes (nouns and adjectives) - page 130-131 of _EuroRomCom: The Seven Sieves_.
 * Common Greek suffixes in the Romance languages - page 131-132 of _EuroRomCom: The Seven Sieves_.
@@ -81,8 +81,6 @@ _Add typos you find in the original book here_
 
 Feel free to dive in! [Open an issue](https://github.com/kirkins/euroromcom/issues/new) or submit PRs.
 
-Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
-
 ## License
 
-MIT (c) Protocol Labs
+MIT
