@@ -2,6 +2,8 @@
 
 🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷   🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷  🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 
 
+[Play Mini-Game](https://kirkins.github.io/EuroRomCom/activities/quiz/) | [Word Lists](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=completely-pan-romance)
+
 This project is based on the work of William J. McCann, Horst G. Klein, & Tilbert D. Stegmann in their book [_EuroRomCom - The Seven Sieves: How to read all the Romance languages right away_](http://xombi.inter.hu/zn/The_Seven_Sieves_.pdf).
 
 These resources are intended for the use of pre-existing knowledge in one Romance language to passively understand written content from another. It contains a collection of [word lists](#word-lists) which exist in all or several Romance languages, [interactive learning activities](#activities), and links to [external resources](#external-resources).
