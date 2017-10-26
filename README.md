@@ -67,7 +67,7 @@ These resources are intended for the use of pre-existing knowledge in one Romanc
 ## External Resources
 
 * [EuroRomCom site (German)](https://web.archive.org/web/20160325090046/http://www.eurocomrom.de/)
-* [University of Frankfurt - 7 Siebe (German)](http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
+* [University of Frankfurt - 7 Siebe (German)](https://web.archive.org/web/20160113235048/http://www.eurocom.uni-frankfurt.de/siebe/7Siebe/BIN/start.htm)
 * [Wikipedia Romance Languages](https://en.wikipedia.org/wiki/Romance_languages)
 * [Introducing Micrela: Predicting Mutual Intelligibility Between Closely Related Languages in Europe](http://www.let.rug.nl/gooskens/pdf/publ_almadi_2015.pdf)
 * [Language Evolution Simulation (multimedia)](https://fatiherikli.github.io/language-evolution-simulation/)
